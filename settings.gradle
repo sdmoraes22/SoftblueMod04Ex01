@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='SoftblueMod04Ex01'
